@@ -1,0 +1,1 @@
+Put image in the file classify,then just run the code
